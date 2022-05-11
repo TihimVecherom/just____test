@@ -3495,6 +3495,10 @@ label {
   margin-top: 100px;
 }
 
+.products__synchronization {
+  display: block;
+}
+
 /*
 .icon-menu {
 	display: none;
